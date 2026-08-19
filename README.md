@@ -2,7 +2,7 @@
 
 Aplicativo mobile desenvolvido em Flutter para controle do consumo diário de água.
 
-## 📱 Funcionalidades
+## Funcionalidades
 
 * Cadastro de consumo de água
 * Cálculo da meta diária
@@ -12,7 +12,7 @@ Aplicativo mobile desenvolvido em Flutter para controle do consumo diário de á
 * Armazenamento local
 * Tema claro e escuro
 
-## 🧮 Cálculo
+## Cálculo
 
 A meta diária é calculada pela fórmula:
 
